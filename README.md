@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url-here" alt="Profile Image" width="150" height="150" />
+  <img src="assets/profile.png" alt="Profile Image" width="150" height="150" />
 </p>
 
 <p align="center">
@@ -12,11 +12,7 @@
 </p>
 
 <p align="center">
-I am a self-taught iOS developer with extensive experience in designing, developing, and publishing mobile applications across Apple and Android platforms, including iPhone, iPad, and Apple Watch.  
-</p>
-
-<p align="center">
-I am dedicated to delivering intuitive, high-quality user experiences through robust and efficient code.  
+I am a self-taught iOS developer with extensive experience in designing, developing, and publishing mobile applications across Apple and Android platforms, including iPhone, iPad, and Apple Watch. I am dedicated to delivering intuitive, high-quality user experiences through robust and efficient code.  
 </p>
 
 <p align="center">
