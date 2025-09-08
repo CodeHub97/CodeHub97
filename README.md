@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-I am a self-taught iOS developer with extensive experience in designing, developing, and publishing mobile applications across Apple and Android platforms, including iPhone, iPad, and Apple Watch. I am dedicated to delivering intuitive, high-quality user experiences through robust and efficient code.  
+Self-taught iOS developer with proven expertise in designing, developing, and delivering high-quality mobile applications for iPhone, iPad, Apple Watch, and Android. Skilled in creating intuitive, seamless user experiences through clean, efficient, and maintainable code.  
 </p>
 
 <p align="center">
