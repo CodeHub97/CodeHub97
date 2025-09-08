@@ -1,16 +1,17 @@
-## Hi there 👋
+ 👋 Hi, I'm Gaganpreet  
 
-<!--
-**CodeHub97/CodeHub97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Senior iOS & Flutter Developer (Objective C | Swift | SwiftUI | Flutter)  
 
-Here are some ideas to get you started:
+*Welcome to my GitHub Profile!*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a self-taught iOS developer with extensive experience in designing, developing, and publishing mobile applications across Apple and Android platforms, including iPhone, iPad, and Apple Watch.  
+
+I am dedicated to delivering intuitive, high-quality user experiences through robust and efficient code.  
+
+I welcome opportunities for any collaborations or freelance engagements.  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagan-preet-908425144)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/CodeHub97/)  
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:gaganpreet0097@gmail.com)  
+
+To explore my projects in detail, visit my [GitHub Portfolio](https://codehub97.github.io/gaganpreet/).
