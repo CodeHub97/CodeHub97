@@ -33,7 +33,7 @@
 <p><strong>Languages and Tools:</strong></p>
 
 <p>
-  <a href="https://google.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.swift.org/" target="_blank" rel="noopener noreferrer">
   <img src="assets/swift.png" alt="swift" width="40" height="40" />
 </a>
 
